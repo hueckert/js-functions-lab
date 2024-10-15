@@ -80,7 +80,7 @@ Complete the exercise in the space below:
 */
 
 function generateEmail (firstName, domain){
-    return `${firstName} @${domain}`
+    return `${firstName}@${domain}`
 }
 
 console.log('Exercise 4 Result:', generateEmail("johnsmith", "example.com"));
